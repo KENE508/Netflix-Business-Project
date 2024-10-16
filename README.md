@@ -1,1 +1,1 @@
-# Netflix-Sales-Project
+# Netflix-Content-Strategy-Project

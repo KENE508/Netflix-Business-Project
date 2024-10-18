@@ -52,7 +52,12 @@ Analysis [View the analysis on Jupyter Notebook]()
 2. Experiment with Content Length: As part of the strategy, Netflix could experiment with varying content durations (e.g., shorter episodes or mini-series) to see if audience engagement improves, especially for TV shows in countries like South Korea and Japan.
 
 ### References
-Stack overflow: How to s
+ - Geeks for geeks: what does it mean to split and explode string entries and how [link](https://www.geeksforgeeks.org/how-to-split-explode-pandas-dataframe-string-entry-to-separate-rows/)
+ - Stack overflow: How to split and explode in pandas dataframe [link](https://stackoverflow.com/questions/12680754/split-explode-pandas-dataframe-string-entry-to-separate-rows)
+
+### Acknowledgment
+ -  I am deeply grateful to my data community friends for their invaluable ideas and insights. This project wouldn't have been possible without their support.
+
 
 
 

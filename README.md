@@ -32,6 +32,29 @@ Python
  - Comparing production by country, the U.S. and India predominantly produce movies, while South Korea and Japan tend to produce more TV shows.
  - The analysis of genres that top countries should focus on suggests that genres like international movies and thrillers resonate well, particularly under mature content ratings like TV-MA.
 
+### Project Link
+Analysis [View the analysis on Jupyter Notebook]()
+
+### Recommendations
+1. #### Focus on Popular Genres:
+ - Netflix should prioritize producing content in genres that are widely appreciated, such as international movies, dramas, and comedies, as these genres consistently perform well across multiple regions.
+2. #### Leverage High-Rated Genres in Key Markets:
+ - In countries like the United States, where movies dominate, Netflix should continue focusing on highly rated genres like documentaries and dramas, especially those rated TV-MA and TV-14.
+ - Netflix could also experiment with creating TV shows within these genres, which could attract audiences and diversify its content portfolio, potentially driving long-term growth in TV show consumption.
+3. #### Expand TV Show Production in Countries Favoring TV Shows:
+ - In regions like South Korea and Japan, where the audience preference leans heavily toward TV shows, Netflix should continue producing more TV series to meet local demand.
+ - In Japan, where anime is a popular genre, Netflix could explore creating anime movies in addition to anime TV shows. This dual approach could increase engagement in both the TV and movie categories, maximizing content impact in this market.
+4. #### Tailor Regional Content Strategies:
+ - By analyzing country-specific preferences, Netflix can adjust its content strategy in each market. For example, focusing on international movies in markets where global content resonates and aligning content ratings with the preferences of local audiences can help maintain viewer engagement.
+
+### Suggestions
+1. Data-Driven Localization: Netflix could consider localized content strategies that not only focus on genres but also incorporate regional cultural elements to further enhance viewer connection.
+2. Experiment with Content Length: As part of the strategy, Netflix could experiment with varying content durations (e.g., shorter episodes or mini-series) to see if audience engagement improves, especially for TV shows in countries like South Korea and Japan.
+
+### References
+Stack overflow: How to s
+
+
 
 
 

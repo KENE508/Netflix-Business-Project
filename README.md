@@ -33,7 +33,7 @@ Python
  - The analysis of genres that top countries should focus on suggests that genres like international movies and thrillers resonate well, particularly under mature content ratings like TV-MA.
 
 ### Project Link
-Analysis [View the analysis on Jupyter Notebook](https//github.com/KENE508/Netflix-Content-Strategy-Project/blob/main/Netflix_Content_Strategy_Project.ipynb)
+Analysis [View the analysis on Jupyter Notebook](https://github.com/KENE508/Netflix-Content-Strategy-Project/blob/main/Netflix_Content_Strategy_Project.ipynb)
 
 ### Recommendations
 1. #### Focus on Popular Genres:

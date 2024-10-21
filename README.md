@@ -3,6 +3,9 @@
 ### Project Overview
 From this project, I gained valuable insights into the global landscape of Netflix content. I analyzed the distribution of content across different countries, identifying the most common types and genres specific to each region. I also explored trends in content production over the years, highlighting countries that produce the most content for Netflix. This analysis provided a deeper understanding of how Netflix tailors its offerings based on regional preferences and the evolving nature of content production over time.
 
+### Objective
+The goal of this analysis is to explore Netflix's content library to identify trends in content production, genre preferences, and geographical distribution, with the aim of providing insights to enhance Netflix’s content strategy and audience engagement.
+
 ### Data Source
 Kaggle [Download here](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
